@@ -10,6 +10,10 @@ The Dolby Driver already had the same speaker ID, so I just updated it without i
 
 I'll provide the modified drivers in releases so you can install them easily.
 
+# Installation
+Extract the zip, open the G14_2025 folder. 
+Run the install.bat in both the Dolby folder and the Cirrus Logic folder and restart. 
+
 # Extras
 2024 Speaker IDs:
 Asus_GA403_10431B13_240426 
