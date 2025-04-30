@@ -8,9 +8,9 @@ In my opinion, G14/16 2024 had the best speakers ever except Macbooks, hence I g
 I downloaded the Cirrus Logic and Dolby Drivers at the G14 2025's driver support page: https://rog.asus.com/laptops/rog-zephyrus/rog-zephyrus-g14-2025/helpdesk_download/
 The Dolby Driver already had the same speaker ID, so I just updated it without issue. However, Cirrus Logic changed the firmware tuning files and named them as GA403K instead of mine, which is the GA403. Hence, I just copy-pasted the 2025 tuning .bin's from it's folder and put them into the 2024's folder and renamed them to the 2024. Then I updated the Cirrus Logic driver and it just somehow worked.
 
-I'll provide the modified drivers here so you can install them easily.
+I'll provide the modified drivers in releases so you can install them easily.
 
-# extras
+# Extras
 2024 Speaker IDs:
 Asus_GA403_10431B13_240426 
 DEV_0285_SUBSYS_10431B13_PCI_SUBSYS_1B131043
@@ -18,3 +18,8 @@ DEV_0285_SUBSYS_10431B13_PCI_SUBSYS_1B131043
 2025 Speaker IDs:
 ASUS_GA403K_10431044_241108 
 DEV_0285_SUBSYS_10431044_PCI_SUBSYS_10441043
+
+# DISCLAIMER
+THIS IS UNSUPPORTED. You're manually installing firmware from a different model (2025) onto the 2024 version.
+USE AT YOUR OWN RISK. I am not responsible for any issues caused by this.
+KNOW WHAT YOU'RE DOING. This is not officially supported by ASUS and could be overwritten in future updates.
