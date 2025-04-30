@@ -1,8 +1,22 @@
 # g14-2024-speaker-tuning-upgrade
-Tutorial on how to upgrade the G14 2024's Cirrus Logic Speaker Firmware and the Dolby Driver to the G14 2025's and get free audio gains.
+Upgrade your G14 2024’s Cirrus Logic speaker firmware and Dolby driver to the 2025 version for a serious sound improvement.
 
 # Why?
-In my opinion, G14/16 2024 had the best speakers ever except MacBooks, hence I got one especially for that. It sounded great, but still felt like Asus didn't work enough on it and rushed it. As the 2025 model was released, I was curious and wanted to see if they changed anything at all, and after checking the audio drivers and firmware on the support website, they definitely did. I somehow managed to install them, and voila, the extreme distortion I had around 90-150hz region was gone (very healthy for the speakers), and the treble was better, and as a result it's somehow more punchier and even more clearer and I'm very happy with it. The speaker hardware are exactly the same on 2024 and 2025, so the installation went somewhat smooth.
+The ROG Zephyrus G14/G16 2024 already had some of the best speakers on a Windows laptop — second only to MacBooks in my opinion. That’s one of the reasons I bought it. However, despite the strong hardware, the tuning didn’t feel fully optimized. In particular, there was noticeable harmonic distortion around the 90–150Hz range, which not only reduced sound clarity but could potentially damage the speakers over time with heavy bass.
+
+When the 2025 model launched, I noticed updated versions of both the Cirrus Logic speaker firmware and the Dolby driver on the official ASUS support site. Curious, I inspected the files and found that the firmware and tuning profiles were not only different, but significantly more detailed and refined compared to the 2024 versions.
+
+After somehow managing to install the 2025 files on my 2024 model — since both models use the exact same speaker hardware — the result was immediate:
+
+Distortion completely gone in the 90–150Hz range
+
+Treble became more defined, with less harshness or muffling
+
+Overall punchier, clearer, and more balanced sound
+
+It’s likely the 2024 firmware was rushed or unfinished, while the 2025 one benefited from extra development time. This guide helps you apply that same upgrade and unlock the full potential of your G14 2024’s speakers.
+
+
 
 # How did I do it?
 I downloaded the Cirrus Logic and Dolby Drivers at the G14 2025's driver support page: https://rog.asus.com/laptops/rog-zephyrus/rog-zephyrus-g14-2025/helpdesk_download/
@@ -11,11 +25,17 @@ The Dolby Driver already had the same speaker ID, so I just updated it without i
 I'll provide the modified drivers in releases so you can install them easily.
 
 # Installation
-Extract the zip, open the G14_2025 folder. 
-Run the install.bat in both the Dolby folder and the Cirrus Logic folder and restart. 
+1. Extract the .zip
+
+2. Open the G14_2025 folder
+
+3. Run ```install.bat``` inside both the ```Dolby``` and ```Cirrus Logic``` folders
+
+4. Restart your device
+
 
 # Reverting
-I didn't attempt reverting it as I use it, but it should be as straightforward as installing the ones from the G14_2024 folder.
+Reverting should be as simple as running the installers from the G14_2024 folder, though I haven’t tested it myself since I’m keeping the 2025 tuning.
 
 # DISCLAIMER
 THIS IS UNSUPPORTED. You're manually installing firmware from a different model (2025) onto the 2024 version.
