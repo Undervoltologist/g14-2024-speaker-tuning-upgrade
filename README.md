@@ -17,9 +17,11 @@ Overall punchier, clearer, and more balanced sound
 It’s likely the 2024 firmware was rushed or unfinished, while the 2025 one benefited from extra development time. This guide helps you apply that same upgrade and unlock the full potential of your G14 2024’s speakers.
 
 2025 Tunings:
+
 https://github.com/user-attachments/assets/c9147113-8e5c-4c15-962a-935b0c9946c8
 
 2024 Tunings:
+
 https://github.com/user-attachments/assets/740846ef-617f-4135-9149-22df1ae3007f
 
 
