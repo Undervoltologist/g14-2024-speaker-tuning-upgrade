@@ -17,13 +17,17 @@ Run the install.bat in both the Dolby folder and the Cirrus Logic folder and res
 # Extras
 2024 Speaker IDs:
 Asus_GA403_10431B13_240426 
+
 DEV_0285_SUBSYS_10431B13_PCI_SUBSYS_1B131043
 
 2025 Speaker IDs:
 ASUS_GA403K_10431044_241108 
+
 DEV_0285_SUBSYS_10431044_PCI_SUBSYS_10441043
 
 # DISCLAIMER
 THIS IS UNSUPPORTED. You're manually installing firmware from a different model (2025) onto the 2024 version.
+
 USE AT YOUR OWN RISK. I am not responsible for any issues caused by this.
+
 KNOW WHAT YOU'RE DOING. This is not officially supported by ASUS and could be overwritten in future updates.
