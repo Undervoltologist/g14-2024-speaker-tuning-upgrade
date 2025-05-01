@@ -46,11 +46,9 @@ I'll provide the modified drivers in releases so you can install them easily.
 Reverting should be as simple as running the installers from the G14_2024 folder (you might need to force-uninstall the new drivers first, I recommend ```Driver Store Explorer```), though I haven’t tested it myself since I’m keeping the 2025 tuning. 
 
 # DISCLAIMER
-THIS IS UNSUPPORTED. You're manually installing firmware from a different model (2025) onto the 2024 version.
-
-USE AT YOUR OWN RISK. I am not responsible for any issues caused by this.
-
-KNOW WHAT YOU'RE DOING. This is not officially supported by ASUS and could be overwritten in future updates.
+### THIS IS UNSUPPORTED. You're manually installing firmware from a different model (2025) onto the 2024 version.
+### USE AT YOUR OWN RISK. I am not responsible for any issues caused by this.
+### KNOW WHAT YOU'RE DOING. This is not officially supported by ASUS and could be overwritten in future updates.
 
 # Extras
 2024 Speaker IDs:
