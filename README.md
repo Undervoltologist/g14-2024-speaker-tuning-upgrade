@@ -14,7 +14,7 @@ Treble became more defined, with less harshness or muffling
 
 Overall punchier, clearer, and more balanced sound
 
-It’s likely the 2024 firmware was rushed or unfinished, while the 2025 one benefited from extra development time. This guide helps you apply that same upgrade and unlock the full potential of your G14 2024’s speakers. (imo again)
+It’s likely the 2024 firmware was rushed or unfinished, while the 2025 one benefited from extra development time. This guide helps you apply that same upgrade on your G14 2024’s speakers. 
 
 2025 Tunings:
 
