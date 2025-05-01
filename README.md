@@ -14,6 +14,8 @@ Treble became more defined, with less harshness or muffling
 
 Overall punchier, clearer, and more balanced sound
 
+```(EDIT: From what I see, it looks really similar to the 14" MBP 2024 frequency response, so.. :P)```
+
 It’s likely the 2024 firmware was rushed or unfinished, while the 2025 one benefited from extra development time. This guide helps you apply that same upgrade and unlock the full potential of your G14 2024’s speakers. (imo again)
 
 2025 Tunings:
