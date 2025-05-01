@@ -1,7 +1,6 @@
 # g14-2024-speaker-tuning-upgrade
 Upgrade your G14 2024’s Cirrus Logic speaker firmware and Dolby driver to the 2025 version for a serious sound improvement. (imo)
 
-### (EDIT: From what I see, it looks really similar to the 14" MBP 2024 frequency response, and drastically different then how it was before, so.. :P)
 # Why?
 The ROG Zephyrus G14/G16 2024 already had some of the best speakers on a Windows laptop — second only to MacBooks in my opinion. That’s one of the reasons I bought it. However, despite the strong hardware, the tuning didn’t feel fully optimized. In particular, there was noticeable harmonic distortion around the 90–150Hz range, which not only reduced sound clarity but could potentially damage the speakers over time with heavy bass.
 
