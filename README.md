@@ -44,7 +44,7 @@ I'll provide the modified drivers in releases so you can install them easily.
 
 
 # Reverting
-Reverting should be as simple as running the installers from the G14_2024 folder, though I haven’t tested it myself since I’m keeping the 2025 tuning.
+Reverting should be as simple as running the installers from the G14_2024 folder (you might need to force-uninstall the new drivers first, I recommend ```Driver Store Explorer```), though I haven’t tested it myself since I’m keeping the 2025 tuning. 
 
 # DISCLAIMER
 THIS IS UNSUPPORTED. You're manually installing firmware from a different model (2025) onto the 2024 version.
